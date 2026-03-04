@@ -1,0 +1,15 @@
+{
+  "name": "ex-01_cj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+    "author": "",
+  "license": "ISC",
+"scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
