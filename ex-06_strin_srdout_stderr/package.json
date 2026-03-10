@@ -1,0 +1,12 @@
+{
+  "name": "ex-06_stdin_stdout_stderr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+    "author": "",
+  "license": "ISC",
+"scripts": {
+    "start": "node index.js"
+  }
+}
