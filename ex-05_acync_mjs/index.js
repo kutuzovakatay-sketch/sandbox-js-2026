@@ -23,15 +23,12 @@ testValue.then((testValue) => {
     console.log("finaly detected");
 });*/
 
-async function Start(params) {
 
-    try{
-        const testValue = await testFunction();
-        console.log('res = ', testValue);  
-    }catch(err){
-        console.log("err = ", err);
-    }
-    console.log("finaly detected");
+try{
+    const testValue = await testFunction();
+    console.log('res = ', testValue);  
+}catch(err){
+    console.log("err = ", err);
 }
+console.log("finaly detected");
 
-Start();

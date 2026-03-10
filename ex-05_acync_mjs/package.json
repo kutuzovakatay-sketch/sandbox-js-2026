@@ -1,9 +1,9 @@
 {
-  "name": "ex-04_acync_cjs",
+  "name": "ex-05_acync_mjs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "commonjs",
+  "type": "module",
     "author": "",
   "license": "ISC",
 "scripts": {
