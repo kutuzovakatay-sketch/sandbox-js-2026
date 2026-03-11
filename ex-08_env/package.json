@@ -1,15 +1,15 @@
 {
-  "name": "ex-03_js",
+  "name": "ex-08_env",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "commonjs",
+  "type": "module",
     "author": "",
   "license": "ISC",
 "scripts": {
-    "dev": "nodemon index.js"
+    "start": "node index.js"
   },
-  "Dependencies": {
+    "dependencies": {
     "dotenv": "^17.3.1"
   }
 }
